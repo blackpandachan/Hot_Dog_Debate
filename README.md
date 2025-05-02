@@ -11,6 +11,7 @@ Think of it as a way to build more complex AI systems where different specialize
 ## Examples Included
 
 * **Hot Dog vs. Sandwich Debate:** The classic, pointless, yet surprisingly engaging debate about whether a hot dog qualifies as a sandwich. This demonstrates basic agent roles (pro, con, moderator), turn-based interaction, and context management.
+    * See the [Blog Post Version (hotdog.md)](hotdog.md) for a narrative walkthrough.
 * *(Add other examples here as you create them, e.g., Vim vs. Emacs, Epstein Death Debate Analysis)*
 
 ## Running the Examples
@@ -48,5 +49,5 @@ Think of it as a way to build more complex AI systems where different specialize
 
 ## Contributing
 
-Try it yourself! It's amusing!
+Try out ADK! Feel free to fork, or use this as content, or recommend improvements! I'm working on adding personalities that I provide as vars for each debate agent as well! The agents no longer are forced into a stance, but determine their own. Contribute if you have ideas!
 
